@@ -1,0 +1,47 @@
+# --- Python ---
+# Arquivos compilados e cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# --- Ambientes Virtuais ---
+# Bloqueia a pasta de bibliotecas (essencial para não subir o .venv)
+.venv/
+venv/
+env/
+ENV/
+bin/
+lib/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# --- Jupyter Notebook ---
+# Bloqueia arquivos temporários e checkpoints de salvamento automático
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+# Bloqueia arquivos temporários do runtime
+.virtual_documents/
+
+# --- Dados e Logs ---
+# Recomendado: ignorar arquivos de dados grandes para não estourar o limite do Git
+*.csv
+*.xlsx
+*.sqlite
+*.log
+
+# --- Sistema Operacional ---
+.DS_Store
+Thumbs.db
