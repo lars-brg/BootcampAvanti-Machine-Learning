@@ -1,5 +1,30 @@
-# BootcampAvanti-Machine-Learning
+# Bootcamp Avanti Machine Learning
 Repositório para atividades referentes ao curso de Machine Learning do Instituto Atlântico
+
+**Tema:** Classificação de Frutas e Vegetais
+
+## Etapas do projeto
+1. Análise, preparação e qualidade dos dados
+2. Revisão da literatura e modelagem
+3. Treinamento
+4. Avaliação do modelo
+
+## Pipeline
+Fonte: Dataset "Fruits and Vegetables Image Recognition" (Kaggle).
+
+- **Análise exploratória**
+  - Verificação de integridade
+  - Distribuição de classes
+  - Verificação de formatos
+ 
+- **Pré-processamento**
+  - Redimensionamento
+  - Normalização
+  - Data Augmentation
+ 
+- **Arquitetura do Modelo**
+  - Transfer Learning utilizando a ResNet50.
+
 
 ### Passos para rodar o código (opcional):
 
