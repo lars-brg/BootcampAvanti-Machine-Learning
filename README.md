@@ -31,7 +31,7 @@ Inicialmente o dataset foi analisado para identificar inconsistências e necessi
 
 ✔️ **Otimização do pipeline de dados**
 
-O pipeline original utilizava ImageDataGenerator do TensorFlow, o que causava alguns problemas:
+O pipeline original utilizava `ImageDataGenerator` do TensorFlow, o que causava alguns problemas:
 
 - GPU permanecia ociosa durante parte do treinamento  
 - Data Augmentation era aplicada no conjunto de validação  
