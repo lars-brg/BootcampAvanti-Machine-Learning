@@ -1,7 +1,10 @@
-# Bootcamp Avanti Machine Learning
-Repositório para atividades referentes ao curso de Machine Learning do Instituto Atlântico
+# Fruits and Vegetable Classification
+Projeto desenvolvido durante o Bootcamp de Machine Learning da Escola Atlântico Avanti com o objetivo de construir um modelo de classificação de imagens de frutas e vegetais utilizando técnicas modernas de Deep Learning e otimização de pipeline.
 
 **Tema:** Classificação de Frutas e Vegetais
+
+## Vsão Geral
+Este projeto implementa um pipeline completo de Visão Computacional para classificação de frutas e vegetais utilizando Transfer Learning com MobileNetV2.
 
 ## Etapas do projeto
 1. Análise, preparação e qualidade dos dados
